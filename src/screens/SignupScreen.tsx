@@ -10,8 +10,6 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import auth from '@react-native-firebase/auth';
-import {StackNavigationProp} from '@react-navigation/stack';
-import {RootStackParamList} from '../../App';
 import {useNavigation} from '@react-navigation/native';
 import { constantVariables } from '../constants/Constants';
 
