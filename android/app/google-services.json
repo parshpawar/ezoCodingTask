@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177679302708",
+    "project_id": "ezocodingtask",
+    "storage_bucket": "ezocodingtask.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177679302708:android:c40b69d6143f1110c64a61",
+        "android_client_info": {
+          "package_name": "com.ezo.authenticateApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGN_kl0x1LRXzxLIgRcE1eIfOdbIbcdFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
